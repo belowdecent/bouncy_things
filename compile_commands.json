@@ -1,0 +1,6 @@
+[
+{
+  "directory": "/home/belowdecent/Coding/cpplearning/bouncy",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-D_REENTRANT", "-I", "/usr/include/SDL2", "-I", "/usr/include/libpng16", "-I", "/usr/include/webp", "-DNDEBUG", "-o", "build/.objs/bouncy/linux/x86_64/release/src/main.cpp.o", "src/main.cpp"],
+  "file": "src/main.cpp"
+}]
